@@ -3,15 +3,15 @@
         {
             "Degree": {
             "School": "Addis Ababa University",
-            "Major": "Foreign language and Literature",
+            "Major": "Literature",
             "Type": "BA",
             "Yearconferred": "2010"
         }
     },
         {
             "Degree": {
-             "School": "New generation University",
-             "Major": "Computer science",
+             "School": "New Generation University",
+             "Major": "Computer Science",
              "Type": "BS",
              "Yearconferred": "2016"
             }
@@ -19,7 +19,7 @@
         {
             "Degree": { 
             "School": "Boston University",
-            "Major": "Software development",
+            "Major": "Software Development",
             "Type": "MS",
             "Yearconferred": "2023"
         }
