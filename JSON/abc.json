@@ -1,0 +1,28 @@
+{
+    "myCollegeDegrees": [
+        {
+            "Degree": {
+            "School": "Addis Ababa University",
+            "Major": "Foreign language and Literature",
+            "Type": "BA",
+            "Yearconferred": "2010"
+        }
+    },
+        {
+            "Degree": {
+             "School": "New generation University",
+             "Major": "Computer science",
+             "Type": "BS",
+             "Yearconferred": "2016"
+            }
+        },
+        {
+            "Degree": { 
+            "School": "Boston University",
+            "Major": "Software development",
+            "Type": "MS",
+            "Yearconferred": "2023"
+        }
+    }
+    ]
+    }
